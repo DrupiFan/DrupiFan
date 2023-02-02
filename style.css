@@ -1,0 +1,42 @@
+body{
+    background-image: url('https://media4.giphy.com/media/WrHrrwqxCTTb7uKQQX/giphy.gif?cid=ecf05e4792r8mipzc96v3kse4z1hxax85tdd18ee0sgwcvxc&rid=giphy.gif&ct=g');
+    background-size: cover;
+    
+    
+    
+    height: 100vh;
+    padding:0;
+    margin:0;
+
+}
+
+#drupi {
+    font-size: 80px;
+    z-index: 1;
+    position: relative;
+    bottom: 550px;
+    left: 20px;
+    font-family: cursive;
+}
+  
+#gif {
+    z-index: 0;
+}
+
+#cekvavs {
+    font-size: 80px;
+    z-index: 1;
+    position: relative;
+    bottom: 730px;
+    right: -970px;
+    font-family: cursive;
+    margin: 0px;
+
+}
+
+music {
+    position: relative;
+    bottom: 200px;
+    left: 20px;
+    z-index: 2; 
+}
